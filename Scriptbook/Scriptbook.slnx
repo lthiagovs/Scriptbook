@@ -1,1 +1,18 @@
-<Solution />
+<Solution>
+  <Folder Name="/0) API/">
+    <Project Path="Scriptbook.API/Scriptbook.API.csproj" Id="948eeb54-fde8-4e7c-853f-ba520dd26370" />
+  </Folder>
+  <Folder Name="/1) Application/">
+    <Project Path="Scriptbook.Application/Scriptbook.Application.csproj" Id="c63cc9d1-bb49-4f10-831c-f0209055336e" />
+  </Folder>
+  <Folder Name="/2) Domain/">
+    <Project Path="Scriptbook.Domain/Scriptbook.Domain.csproj" Id="b407b9ef-1d62-4110-9fa5-00d210ed41d0" />
+  </Folder>
+  <Folder Name="/3) Infrastructure/">
+    <Project Path="Scriptbook.Infrastructure/Scriptbook.Infrastructure.csproj" Id="8922298c-f0b2-481c-857c-5465c9aa7cad" />
+  </Folder>
+  <Folder Name="/Configs/">
+    <File Path="Anotacoes.md" />
+    <File Path="docker-compose.yml" />
+  </Folder>
+</Solution>
